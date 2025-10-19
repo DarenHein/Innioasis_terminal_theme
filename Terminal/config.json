@@ -1,7 +1,8 @@
 {
     "themeCover": "skullcover.png",
     "desktopWallpaper": "desk.png",
-    "globalWallpaper": "desk.png",
+    "globalWallpaper": "desk2.png",
+    "fontFamily": "enhanced_dot_digital-7.ttf",
     "itemConfig": {
         "itemTextColor": "#00FF41",
         "itemSelectedTextColor": "#2D2926",
